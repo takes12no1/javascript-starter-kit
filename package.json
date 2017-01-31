@@ -1,0 +1,22 @@
+{
+  "name": "javascript-starter-kit",
+  "version": "0.0.0",
+  "description": "A javascript starting kit for the team",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takes12no1/javascript-starter-kit.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Mark Coleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takes12no1/javascript-starter-kit/issues"
+  },
+  "homepage": "https://github.com/takes12no1/javascript-starter-kit#readme"
+}
